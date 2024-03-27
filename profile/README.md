@@ -32,7 +32,7 @@ We welcome contributions from the community! If you would like to participate in
 
 For any questions, suggestions, or collaboration requests, feel free to contact us:
 
-- Email: zsquad.project.contact@gmail.com
+- Email: contact@zsquad.fr
 - Discord: [ZProject Discord Server](https://discord.gg/zproject)
 
 ---
