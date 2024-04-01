@@ -10,7 +10,7 @@
 
 ## About
 
-> ZProject, led by ZSquad, is a **French** project led by a team of passionate developers offering a range of diverse **development services**. Our team specializes in **creating websites**, **Discord bots**, and elements for **FiveM**. Additionally, we provide top-notch **Graphic Design Services** tailored to your specific needs. Whether it's logo design, UI/UX design, or any other graphical assets, we ensure high-quality visuals that elevate your project. We are committed to providing (**for the development side**) our users with both **free and open-source** solutions, as well as **paid options with encryption**. Our main concern is ensuring the **security**, **optimization**, and **smooth functioning** of our scripts, coupled with visually captivating designs that leave a lasting impression.
+> ZProject, led by ZSquad, is a **French** project led by a team of passionate developers offering a range of diverse **development services**. Our team specializes in **creating websites**, **Discord bots**, and elements for **FiveM** (RageUI and React). Additionally, we provide top-notch **Graphic Design Services** tailored to your specific needs. Whether it's logo design, UI/UX design, or any other graphical assets, we ensure high-quality visuals that elevate your project. We are committed to providing (**for the development side**) our users with both **free and open-source** solutions, as well as **paid options with encryption**. Our main concern is ensuring the **security**, **optimization**, and **smooth functioning** of our scripts, coupled with visually captivating designs that leave a lasting impression.
 
 ### Our main activities
 
