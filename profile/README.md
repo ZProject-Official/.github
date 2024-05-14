@@ -19,6 +19,7 @@
 - FiveM / RedM Development
 - Custom Development Services
 - Graphic Design / Production Services
+- Configuring Linux machines
 
 ## How to contribute
 
