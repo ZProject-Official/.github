@@ -6,34 +6,34 @@
 
 ---
 
-<h3 align="center">Welcome to the GitHub repository of ZProject!</h3>
+<h3 align="center">Bienvenue dans le dépôt GitHub de ZProject !</h3>
 
-## About
+## À propos
 
-> ZProject, led by ZSquad, is a **French** project led by a team of passionate developers offering a range of diverse **development services**. Our team specializes in **creating websites**, **Discord bots**, and elements for **FiveM** (RageUI and React). Additionally, we provide top-notch **Graphic Design Services** tailored to your specific needs. Whether it's logo design, UI/UX design, or any other graphical assets, we ensure high-quality visuals that elevate your project. We are committed to providing (**for the development side**) our users with both **free and open-source** solutions, as well as **paid options with encryption**. Our main concern is ensuring the **security**, **optimization**, and **smooth functioning** of our scripts, coupled with visually captivating designs that leave a lasting impression.
+> ZProject, dirigé par ZSquad, est un projet **français** mené par une équipe de développeurs passionnés offrant une gamme de **services de développement** variés. Notre équipe se spécialise dans la **création de sites web**, de **bots Discord**, et d'éléments pour **FiveM** (RageUI et React). De plus, nous proposons des **services de conception graphique** de haute qualité, adaptés à vos besoins spécifiques. Que ce soit pour la conception de logos, le design UI/UX ou tout autre élément graphique, nous garantissons des visuels de qualité supérieure qui valorisent votre projet. Nous nous engageons à fournir (**pour la partie développement**) à nos utilisateurs des solutions à la fois **gratuites et open-source**, ainsi que des **options payantes avec chiffrement**. Notre principal souci est d'assurer la **sécurité**, l'**optimisation** et le **bon fonctionnement** de nos scripts, associés à des designs visuellement captivants qui laissent une impression durable.
 
-### Our main activities
+### Nos principales activités
 
-- Web Development
-- Discord Development
-- FiveM / RedM Development
-- Custom Development Services
-- Graphic Design / Production Services
-- Configuring Linux machines
+- Développement Web
+- Développement Discord
+- Développement FiveM / RedM
+- Services de développement sur mesure
+- Services de conception / production graphique
+- Configuration de machines Linux
 
-## How to contribute
+## Comment contribuer
 
-We welcome contributions from the community! If you would like to participate in the development of ZProject, please follow these steps:
+Nous accueillons avec plaisir les contributions de la communauté ! Si vous souhaitez participer au développement de ZProject, veuillez suivre ces étapes :
 
-1. Join our support server.
-2. Open a ticket via the dedicated channel.
-3. Wait for a response from a member of the ZSquad.
+1. Rejoignez notre serveur de support.
+2. Ouvrez un ticket via le canal dédié.
+3. Attendez une réponse d'un membre de la ZSquad.
 
 ## Contact
 
-For any questions, suggestions, or collaboration requests, feel free to contact us:
+Pour toute question, suggestion ou demande de collaboration, n'hésitez pas à nous contacter :
 
-- Email: contact@zsquad.fr
-- Discord: [ZProject Discord Server](https://discord.gg/zproject)
+- Email : contact@zsquad.fr
+- Discord : [Serveur Discord ZProject](https://discord.gg/zproject)
 
 ---
