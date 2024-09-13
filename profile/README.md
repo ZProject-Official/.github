@@ -1,4 +1,4 @@
-<h1 align="center">ZProject</h1>
+<h1 align="center">zProject</h1>
 
 <div align="center">
   <img src="https://i.imgur.com/0OJuJcS.png" alt="logo">
@@ -6,11 +6,11 @@
 
 ---
 
-<h3 align="center">Bienvenue dans le dépôt GitHub de ZProject !</h3>
+<h3 align="center">Bienvenue dans le dépôt GitHub de zProject !</h3>
 
 ## À propos
 
-> ZProject, dirigé par ZSquad, est un projet **français** mené par une équipe de développeurs passionnés offrant une gamme de **services de développement** variés. Notre équipe se spécialise dans la **création de sites web**, de **bots Discord**, et d'éléments pour **FiveM** (RageUI et React). De plus, nous proposons des **services de conception graphique** de haute qualité, adaptés à vos besoins spécifiques. Que ce soit pour la conception de logos, le design UI/UX ou tout autre élément graphique, nous garantissons des visuels de qualité supérieure qui valorisent votre projet. Nous nous engageons à fournir (**pour la partie développement**) à nos utilisateurs des solutions à la fois **gratuites et open-source**, ainsi que des **options payantes avec chiffrement**. Notre principal souci est d'assurer la **sécurité**, l'**optimisation** et le **bon fonctionnement** de nos scripts, associés à des designs visuellement captivants qui laissent une impression durable.
+> zProject, dirigé par la zSquad, est un projet **français** mené par une équipe de développeurs passionnés offrant une gamme de **services de développement** variés. Notre équipe se spécialise dans la **création de sites web**, de **bots Discord**, et d'éléments pour **FiveM** (RageUI et React). De plus, nous proposons des **services de conception graphique** de haute qualité, adaptés à vos besoins spécifiques. Que ce soit pour la conception de logos, le design UI/UX ou tout autre élément graphique, nous garantissons des visuels de qualité supérieure qui valorisent votre projet. Nous nous engageons à fournir (**pour la partie développement**) à nos utilisateurs des solutions à la fois **gratuites et open-source**, ainsi que des **options payantes avec chiffrement**. Notre principal souci est d'assurer la **sécurité**, l'**optimisation** et le **bon fonctionnement** de nos scripts, associés à des designs visuellement captivants qui laissent une impression durable.
 
 ### Nos principales activités
 
@@ -27,7 +27,7 @@ Nous accueillons avec plaisir les contributions de la communauté ! Si vous souh
 
 1. Rejoignez notre serveur de support.
 2. Ouvrez un ticket via le canal dédié.
-3. Attendez une réponse d'un membre de la ZSquad.
+3. Attendez une réponse d'un membre de la zSquad.
 
 ## Contact
 
