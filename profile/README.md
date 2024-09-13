@@ -34,6 +34,6 @@ Nous accueillons avec plaisir les contributions de la communauté ! Si vous souh
 Pour toute question, suggestion ou demande de collaboration, n'hésitez pas à nous contacter :
 
 - Email : contact@zsquad.fr
-- Discord : [Serveur Discord ZProject](https://discord.gg/zproject)
+- Discord : [Serveur Discord zProject](https://discord.gg/zproject)
 
 ---
