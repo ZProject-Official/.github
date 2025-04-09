@@ -1,7 +1,7 @@
 <h1 align="center">zProject</h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/0OJuJcS.png" alt="logo">
+  <img src="https://i.imgur.com/aDQmg54.png" alt="logo">
 </div>
 
 ---
